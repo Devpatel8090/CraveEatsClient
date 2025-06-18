@@ -7,7 +7,7 @@ import React, { useEffect } from "react";
 //HOC
 import HomeLayoutHoc from './HOC/Home.hoc';
 import RestaurantLayoutHoc from './HOC/Restaurant.HOC';
-import CheckoutLayoutHoc from './HOC/Checkout.HOC';
+import CheckoutLayoutHoc from './HOC/CheckOut.HOC';
 
 
 // Pages
