@@ -3,7 +3,7 @@ import { Route } from "react-router-dom";
 
 
 // layout
-import CheckoutLayout from "../layouts/Checkout.layout";
+import CheckoutLayout from "../layouts/CheckOut.layout";
 
 function CheckoutLayoutHoc({ component: Component, ...rest }) {
     return (
